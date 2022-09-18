@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wmj56.fun/posts/2.html</loc>
+    
+    <lastmod>2022-09-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wmj56.fun/posts/1.html</loc>
+    
+    <lastmod>2022-09-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wmj56.fun/about/index.html</loc>
+    
+    <lastmod>2022-09-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://wmj56.fun/comments/index.html</loc>
     
     <lastmod>2021-11-23</lastmod>
@@ -26,20 +47,6 @@
     <loc>http://wmj56.fun/List/gallery/ohmygirl/index.html</loc>
     
     <lastmod>2021-09-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://wmj56.fun/posts/1.html</loc>
-    
-    <lastmod>2021-09-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://wmj56.fun/about/index.html</loc>
-    
-    <lastmod>2021-08-02</lastmod>
     
   </url>
   
@@ -112,6 +119,13 @@
   
   <url>
     <loc>http://wmj56.fun/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2022-09-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wmj56.fun/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2022-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
